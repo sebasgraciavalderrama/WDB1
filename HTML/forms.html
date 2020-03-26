@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Forms</title>
+</head>
+<body>
+<h1>Register</h1>
+    <p>Register</p>
+    <form>
+        <div>
+            <label for="firstname">First Name:</label>
+            <input name="firstname" id="firstname" type="text" placeholder="First name" required>
+            <label for="lastname">Last Name:</label>
+            <input name="lastname" id="lastname" type="text" placeholder="Last name" required>
+        </div>
+
+        <div>
+            <label for="maleRadio">Male</label>
+            <input name="gender" id="maleRadio" type="radio" value="male" required>
+            <label for="femaleRadio">Female</label>
+            <input name="gender" id="femaleRadio" type="radio" value="female" required>
+            <label for="otherRadio">Other</label>
+            <input name="gender" id="otherRadio" type="radio" value="female" required>
+        </div>
+
+        <div>
+            <label for="email">Email:</label>
+            <input name="email" id="email" type="email" placeholder="Email" required>
+
+            <label for="password">Password:</label>
+            <input name="password" id="password" type="password" pattern=".{5,10}" title="Password must be between in 5 to 10 characters" required>
+        </div>
+
+        <div>
+            Date of birth:
+            <select name="dayOfBirth">
+                <option value="day">Day</option>
+            </select>
+
+            <select name="monthOfBirth">
+                <option value="day">Month</option>
+            </select>
+
+            <select name="yearOfBirth">
+                <option value="day">Year</option>
+            </select>
+        </div>
+        <div>
+            <label for="ToS">I agree to the terms and conditions:</label>
+            <input name="ToS" id="ToS" type="checkbox" required>
+        </div>
+
+        <button>Submit</button>
+    </form>
+
+</body>
+</html>
