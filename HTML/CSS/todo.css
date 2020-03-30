@@ -1,0 +1,23 @@
+body {
+    background: orange;
+}
+
+li {
+    border: 2px solid red;
+}
+
+#cssVideos {
+    background: yellow;
+}
+
+#buyGroceries {
+    background: aqua;
+}
+
+#walkRusty {
+    background: brown;
+}
+
+.completed {
+    text-decoration: line-through;
+}

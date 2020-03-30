@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="06894384-13ff-4573-8dbe-315c8faed0f2" name="Default Changelist" comment="" />
+    <list default="true" id="06894384-13ff-4573-8dbe-315c8faed0f2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/HTML/CSS/aboutMe.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/CSS/css.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/CSS/todo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/CSS/todoList.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,8 +23,12 @@
       <list>
         <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1ZdhAyztP5tt0P0Q4YxVpCK28Z7" />
   <component name="ProjectViewState">
@@ -30,6 +40,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -43,6 +54,7 @@
       <updated>1585174738932</updated>
       <workItem from="1585174740200" duration="4374000" />
       <workItem from="1585260241489" duration="5591000" />
+      <workItem from="1585607042655" duration="4163000" />
     </task>
     <servers />
   </component>
@@ -74,6 +86,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="261" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585265720703" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1585607794329">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1920.1040@0.0.1920.1040" timestamp="1585607794329" />
     <state x="768" y="385" width="383" height="269" key="XPathView.InputDialog.DIMENSION_SERVICE_KEY.SIMPLE" timestamp="1585178088808">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
