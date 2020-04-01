@@ -1,0 +1,51 @@
+/*
+30 CSS selectors you must memorize
+https://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048
+*/
+
+/*Elements*/
+li {
+
+}
+
+/*Class*/
+.hello {
+
+}
+
+/*Id*/
+#name {
+
+}
+
+/*Star - Selects everything*/
+* {
+    border: 1px solid lightcoral;
+}
+
+/*Descendant Selectors -  Selects all elements of specific type nested under the first element*/
+ li a {
+    color: crimson;
+}
+
+/*Adjacent Selector - affects the direct element adjacent to a specific element*/
+ h4 + ul {
+    border: 4px solid blue;
+}
+
+/*Attribute Selector*/
+ a[href="http://www.google.com"] {
+    background: yellow;
+}
+
+ input[type="checkbox"] {
+     /*Change stuff...*/
+ }
+/*nth of type*/
+ul:nth-of-type(3) {
+    background: purple;
+}
+
+li:nth-of-type(even) {
+    background: green;
+}

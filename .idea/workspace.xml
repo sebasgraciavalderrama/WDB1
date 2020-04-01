@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="06894384-13ff-4573-8dbe-315c8faed0f2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/HTML/CSS/aboutMe.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML/CSS/css.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML/CSS/todo.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML/CSS/todoList.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/CSS/selectors.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/CSS/selectors.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/CSS/selectorsExercise.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/CSS/selectorsTheory.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/CSS/specificity.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/CSS/specificity.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,6 +44,11 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Sebastián Gracia\PhpstormProjects\WDB1\HTML\CSS" />
+    </key>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -55,6 +62,7 @@
       <workItem from="1585174740200" duration="4374000" />
       <workItem from="1585260241489" duration="5591000" />
       <workItem from="1585607042655" duration="4163000" />
+      <workItem from="1585694898502" duration="5045000" />
     </task>
     <servers />
   </component>
