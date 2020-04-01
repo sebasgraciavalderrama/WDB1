@@ -2,13 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="06894384-13ff-4573-8dbe-315c8faed0f2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/HTML/CSS/selectors.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML/CSS/selectors.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML/CSS/selectorsExercise.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML/CSS/selectorsTheory.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML/CSS/specificity.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML/CSS/specificity.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/CSS/boxmodel.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/CSS/boxmodel.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/CSS/fonts.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/CSS/fonts.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/CSS/selectorSolution.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/CSS/solutionSelectors.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML/CSS/selectors.css" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/CSS/selectors.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML/CSS/selectorsExercise.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/CSS/selectorsExercise.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +44,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/solution.css" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
@@ -62,7 +65,8 @@
       <workItem from="1585174740200" duration="4374000" />
       <workItem from="1585260241489" duration="5591000" />
       <workItem from="1585607042655" duration="4163000" />
-      <workItem from="1585694898502" duration="5045000" />
+      <workItem from="1585694898502" duration="5498000" />
+      <workItem from="1585778334949" duration="4745000" />
     </task>
     <servers />
   </component>
@@ -78,6 +82,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="640" y="248" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585260820484" />
+    <state x="260" y="278" key="FileChooserDialogImpl" timestamp="1585778380938">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="260" y="278" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1585778380938" />
     <state width="1877" height="261" key="GridCell.Tab.0.bottom" timestamp="1585265720703">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
