@@ -2,15 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="06894384-13ff-4573-8dbe-315c8faed0f2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/HTML/CSS/boxmodel.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML/CSS/boxmodel.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML/CSS/fonts.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML/CSS/fonts.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML/CSS/selectorSolution.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML/CSS/solutionSelectors.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/CSS/blog.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/CSS/blog.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/CSS/portfolio.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/CSS/portfolio.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/CSS/tictactoe.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/CSS/tictactoe.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/CSS/selectors.css" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/CSS/selectors.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/CSS/selectorsExercise.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/CSS/selectorsExercise.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML/CSS/boxmodel.css" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/CSS/boxmodel.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML/tables.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/tables.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,6 +67,8 @@
       <workItem from="1585607042655" duration="4163000" />
       <workItem from="1585694898502" duration="5498000" />
       <workItem from="1585778334949" duration="4745000" />
+      <workItem from="1585865393062" duration="714000" />
+      <workItem from="1586211268517" duration="4636000" />
     </task>
     <servers />
   </component>
@@ -110,6 +112,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="768" y="385" width="383" height="269" key="XPathView.InputDialog.DIMENSION_SERVICE_KEY.SIMPLE/0.0.1920.1040@0.0.1920.1040" timestamp="1585178088808" />
+    <state x="143" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1586212298283">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="143" y="230" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1586212298283" />
   </component>
   <component name="XPathView.XPathProjectComponent">
     <history />

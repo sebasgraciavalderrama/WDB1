@@ -1,0 +1,53 @@
+.box {
+    width: 100px;
+    height: 100px;
+}
+
+#upperLeft {
+    border-bottom: solid blue;
+    border-right: solid blue;
+}
+
+#upperMiddle {
+    border-bottom: solid blue;
+    border-right: solid blue;
+}
+
+#upperRight {
+    border-bottom: solid blue;
+}
+
+#middleLeft {
+    border-bottom: solid blue;
+    border-right: solid blue;
+}
+
+#middleMiddle {
+    border-bottom: solid blue;
+    border-right: solid blue;
+}
+
+#middleRight {
+    border-bottom: solid blue;
+}
+
+#bottomLeft {
+    border-right: solid blue;
+}
+
+#bottomMiddle {
+    border-right: solid blue;
+}
+
+#tableHead {
+    font-size: 100px ;
+}
+
+h1 {
+    font-family: Arial;
+    text-align: center;
+}
+
+#table {
+    margin: auto;
+}
