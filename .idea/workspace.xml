@@ -2,6 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="06894384-13ff-4573-8dbe-315c8faed0f2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/HTML/JavaScript/Age calculator/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/JavaScript/Age calculator/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/JavaScript/JS Stalker exercise/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/JavaScript/JS Stalker exercise/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/JavaScript/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/JavaScript/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -10,16 +17,14 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ComposerSettings">
-    <execution>
-      <executable />
-    </execution>
+    <execution />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="CSS File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -66,53 +71,23 @@
       <workItem from="1587231026508" duration="2281000" />
       <workItem from="1587250679806" duration="6347000" />
       <workItem from="1588023002166" duration="113000" />
+      <workItem from="1595458379691" duration="11000" />
+      <workItem from="1595536325453" duration="3074000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585177087761">
+    <state x="640" y="248" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1595475639313">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585177087761" />
-    <state x="640" y="248" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1587230919014">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="640" y="248" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587230919014" />
-    <state x="260" y="278" key="FileChooserDialogImpl" timestamp="1585778380938">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="260" y="278" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1585778380938" />
-    <state width="1877" height="261" key="GridCell.Tab.0.bottom" timestamp="1585265720703">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="261" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585265720703" />
-    <state width="1877" height="261" key="GridCell.Tab.0.center" timestamp="1585265720703">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="261" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585265720703" />
-    <state width="1877" height="261" key="GridCell.Tab.0.left" timestamp="1585265720703">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="261" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585265720703" />
-    <state width="1877" height="261" key="GridCell.Tab.0.right" timestamp="1585265720703">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="261" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585265720703" />
+    <state x="640" y="248" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1595475639313" />
     <state x="0" y="165" key="SettingsEditor" timestamp="1587251404915">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="0" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1587251404915" />
-    <state width="498" height="446" key="SwitcherDM" timestamp="1585607794329">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="498" height="446" key="SwitcherDM/0.0.1920.1040@0.0.1920.1040" timestamp="1585607794329" />
-    <state x="768" y="385" width="383" height="269" key="XPathView.InputDialog.DIMENSION_SERVICE_KEY.SIMPLE" timestamp="1585178088808">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="768" y="385" width="383" height="269" key="XPathView.InputDialog.DIMENSION_SERVICE_KEY.SIMPLE/0.0.1920.1040@0.0.1920.1040" timestamp="1585178088808" />
     <state x="565" y="130" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1587255866918">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
